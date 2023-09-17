@@ -9,7 +9,7 @@ git clone https://github.com/cspi-git/spywarewatchdog
 
 NpmJS:
 ```
-npm i compression serve-index express path
+npm i compression express path
 ```
 
 ## Usage
